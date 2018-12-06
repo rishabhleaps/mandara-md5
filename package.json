@@ -1,9 +1,9 @@
 {
     "name":"mandara-md5",
-    "version": "1.0.0",
-    "description": "It gives MD5 algorithm for typescript",
+    "version": "2.0.0",
+    "description": "Helps in MD5 algorithm implementation in TypeScript",
     "license": "MIT",
-    "repository": "rishabhmodi/mandara-md5",
+    "repository": "rishabhleaps/mandara-md5",
     "main": "md5.ts",
     "keywords": [
       "mandara-md5",
