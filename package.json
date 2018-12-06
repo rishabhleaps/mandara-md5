@@ -1,0 +1,13 @@
+{
+    "name":"mandara-md5",
+    "version": "1.0.0",
+    "description": "It gives MD5 algorithm for typescript",
+    "license": "MIT",
+    "repository": "rishabhmodi/mandara-md5",
+    "main": "md5.ts",
+    "keywords": [
+      "mandara-md5",
+      "npm",
+      "md5"
+    ]
+}
